@@ -1,5 +1,6 @@
 site_name: Evergreen Skills for Software Engineers
 site_description: A bilingual wiki of software engineering skills that stand the test of time
+site_url: https://ifyr.github.io/evergreen_skills/
 repo_url: https://github.com/ifyr/evergreen_skills
 docs_dir: wiki
 theme:
