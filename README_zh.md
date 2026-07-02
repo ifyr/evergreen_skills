@@ -7,7 +7,7 @@
 ## 目录结构
 
 ```
-wikis/
+wiki/
 ├── en/    英文 Wiki（21 页）
 └── zh/    中文 Wiki（21 页）
 ```
@@ -30,8 +30,8 @@ wikis/
 
 从 Wiki 首页进入：
 
-- [English Wiki](wikis/en/Home.md)
-- [中文 Wiki](wikis/zh/Home.md)
+- [English Wiki](wiki/en/Home.md)
+- [中文 Wiki](wiki/zh/Home.md)
 
 每页均有前后导航链接，可按顺序阅读或跳转到任意主题。
 
