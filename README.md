@@ -1,5 +1,7 @@
 # Evergreen Skills for Software Engineers
 
+> **Based on [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers) by [Romén Rodríguez-Gil](https://www.romenrg.com/about/).** Licensed under MIT.
+
 A bilingual (English / Chinese) wiki documenting **"evergreen skills"** — software development best practices, cross-framework principles, and portable skills that stand the test of time.
 
 > Unlike framework-specific knowledge that quickly becomes outdated, the skills in this wiki focus on **what cannot be easily googled** and **takes years to master**.

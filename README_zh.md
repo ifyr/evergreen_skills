@@ -1,5 +1,7 @@
 # Evergreen Skills for Software Engineers
 
+> **基于 [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers) 改编，原作者 [Romén Rodríguez-Gil](https://www.romenrg.com/about/)。** MIT 许可证。
+
 一份中英双语 Wiki，记录经得起时间考验的**软件工程"常青技能"**——软件开发最佳实践、跨框架通用原则和可迁移技能。
 
 > 框架会过时，语法可查阅。真正衡量工程师价值的，是那些**无法轻易搜索到、需要长期积累**的工程素养。
