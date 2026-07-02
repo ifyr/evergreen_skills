@@ -1,6 +1,6 @@
 # 非技术技能
 
-← [首页](Home.md) | 下一节: [1.1 沟通能力](1.1-Communication.md) →
+← [首页](index.md) | 下一节: [1.1 沟通能力](1.1-Communication.md) →
 
 ---
 

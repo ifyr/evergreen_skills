@@ -1,0 +1,58 @@
+site_name: Evergreen Skills for Software Engineers
+site_description: A bilingual wiki of software engineering skills that stand the test of time
+repo_url: https://github.com/ifyr/evergreen_skills
+docs_dir: wiki
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: zh
+          name: 中文
+          build: true
+          site_name: 软件工程师常青技能手册
+          nav_translations:
+            Non-Technical Skills: 非技术技能
+            1.1 Communication: 1.1 沟通能力
+            1.2 Teamwork: 1.2 团队协作
+            1.3 Development Process: 1.3 开发流程
+            1.4 Problem-Solving Skills: 1.4 问题解决能力
+            1.5 Mindset: 1.5 心态
+            Technical Skills: 技术技能
+            2.1 Programming Principles: 2.1 编程原则
+            2.2 Data Structures: 2.2 数据结构
+            2.3 Clean Code: 2.3 整洁代码
+            2.4 Source Code Management: 2.4 源代码管理
+            2.5 Technical Collaboration: 2.5 技术协作
+            2.6 DevOps Practices: 2.6 DevOps 实践
+            2.7 Language Theory & Low-Level: 2.7 语言理论与底层
+            2.8 Field-Specific Knowledge: 2.8 领域专项知识
+            Front-End: 前端开发
+            Back-End: 后端开发
+            Architecture: 架构设计
+            Infrastructure: 基础设施
+            Security: 安全

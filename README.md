@@ -10,8 +10,8 @@ A bilingual (English / Chinese) wiki documenting **"evergreen skills"** — soft
 
 ```
 wiki/
-├── en/    English wiki (21 pages)
-└── zh/    Chinese wiki (21 pages)
+├── (English wiki, 21 pages)
+└── zh/   (Chinese wiki, 21 pages)
 ```
 
 Each wiki is a self-contained interlinked knowledge base:
@@ -32,8 +32,8 @@ Each wiki is a self-contained interlinked knowledge base:
 
 Start from the wiki home page:
 
-- [English Wiki](wiki/en/Home.md)
-- [中文 Wiki](wiki/zh/Home.md)
+- [English Wiki](https://ifyr.github.io/evergreen_skills/)
+- [中文 Wiki](https://ifyr.github.io/evergreen_skills/zh/)
 
 Each page links to the previous and next, so you can read sequentially or jump to any topic.
 

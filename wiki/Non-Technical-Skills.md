@@ -1,6 +1,6 @@
 # Non-Technical Skills
 
-← [Home](Home.md) | Next: [1.1 Communication](1.1-Communication.md) →
+← [Home](index.md) | Next: [1.1 Communication](1.1-Communication.md) →
 
 ---
 
